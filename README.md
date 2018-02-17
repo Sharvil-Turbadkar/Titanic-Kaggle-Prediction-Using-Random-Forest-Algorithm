@@ -1,5 +1,6 @@
 # Titanic-Kaggle-Prediction-Using-Random-Forest-Algorithm
 EMAIL:sharvilt1769@gmail.com
+AUTHOR:SHARVIL VILAS TURBADKAR
 
 With the Help of kaggle i exported csv into my R studio
 
